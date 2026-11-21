@@ -1,0 +1,92 @@
+# Dance Home
+
+**Videos in slow motion, music slowed down** – an app for practising ballroom and social dances with your own practice videos and your music, sorted by dance; born out of a dancing hobby.
+
+Dance Home is free and will remain free. There is no paid advertising, no in-app purchases, no account and no tracking. Your videos, music and notes stay on your device.
+
+## Get Dance Home
+
+### iPhone / iPad / Mac (M1 or later)
+
+On the App Store (Austria, Germany and Bulgaria): [Dance Home on the App Store](https://apps.apple.com/at/app/dance-home/id6822443272)
+
+### Android (e.g. Samsung, Xiaomi, Google Pixel, Motorola, OnePlus)
+
+**I need your help!**
+Before Google releases the app to everyone, I need **at least 12 testers** who keep the app **installed for 14 days**. That's all you need to do. Feedback is of course still welcome.
+
+How it works:
+
+1) Join this Google group (with the Google account on your phone): <https://groups.google.com/g/dance-home-test><br>
+Now wait a moment: Google needs some time after you join, usually a few minutes, sometimes longer. If the next link says “not available”, simply try again later.<br>
+2) Open this link on your phone and tap “Become a tester”: <https://play.google.com/apps/testing/michael.geramb.danceapp><br>
+3) Install the app from the Play Store as usual. If it doesn't show up yet, wait a few minutes here too.
+
+Thanks to everyone who joins in! 🥰🕺💃
+
+<table>
+<tr>
+<td align="center"><img src="../img/1-tanzauswahl.png" width="210" alt="Dance selection"><br><sub>Dance selection</sub></td>
+<td align="center"><img src="../img/2-video-wischen.png" width="210" alt="Video with swipe hint"><br><sub>Videos: swipe to scrub</sub></td>
+<td align="center"><img src="../img/3-musik-tempo.png" width="210" alt="Play music slower"><br><sub>Play music slower</sub></td>
+<td align="center"><img src="../img/4-metronom.png" width="210" alt="Metronome"><br><sub>Metronome</sub></td>
+</tr>
+</table>
+
+<p align="center">
+<img src="../img/5-duo-zu.png" width="210" alt="Video overview on iPhone Duo, folded">&nbsp;&nbsp;
+<img src="../img/6-duo-auf.png" width="460" alt="Video overview on iPhone Duo, unfolded"><br>
+<sub>iPhone Duo: 2 columns of videos folded, 4 unfolded</sub>
+</p>
+
+_The screenshots show the German version in the dark style._
+
+## What Dance Home can do
+
+### Dances at the centre
+- **22 dances:** the 10 competition dances (Standard and Latin, tempo per WDSF) and 12 social dances such as Discofox, Salsa, Bachata, Swing, Rock’n’Roll or Flamenco – each with photo or placeholder image, time signature, tempo, accents and description.
+- **Dance info:** listen to the rhythm, read about character, history and sources of every dance; you can add your own dances.
+- **Dance selection:** pick your dances as chips; videos and music follow the active dance.
+
+### Videos
+- Bring your own videos into the app (from Photos, via “Share”, or film directly) – the originals stay untouched.
+- **Precise analysis:** swipe over the video to scrub – fast swipes skip ahead, slow ones go frame by frame; plus ½× slow motion, filmstrip and quick keys. The app shows a short hint the first time.
+- Title, keywords, dance and **notes** for every video.
+- **Record in the app** with the zoom steps of the camera app; the video lands with the chosen dance right away.
+
+### Music
+- **Slow your MP3 music down without making it sound lower:** 70 %, 80 %, 90 % or a target tempo in bars per minute – ideal for learning new figures. Plus playlists, A–B loop and search by tempo.
+- For drills without music, there is a metronome at the dance’s tempo.
+
+### Everywhere
+- **Voice control** (not available on Android): “Tango in Dance Home” with Siri.
+- **Handoff** (iPhone, iPad and Mac only): start a video or music on one device and carry on at the same spot on another – with iCloud sync turned on, including your own videos and songs.
+- **Sound output:** via AirPlay, Bluetooth or the device.
+- **iCloud sync** (iPhone, iPad and Mac only; optional, off by default): your library on all your own devices.
+- **Dance circles** (iPhone, iPad and Mac only): share videos, music and notes via iCloud with people you invite yourself. Everyone can create one dance circle of their own with up to 6 people (themselves included) and join any number of others. Dance circles are not available on Android for now for technical reasons.
+- **Platforms:** iPhone, iPad, Android and Mac.
+- German and English, light and dark style.
+
+## Privacy
+
+Dance Home keeps everything on your device – no account, no server, no tracking. iCloud sync is optional and off by default. Whatever is in your iCloud stays there even if you delete the app – free the space beforehand in the app (iCloud & backup › “Delete iCloud data”, your own dance circle under Dance circles) or in your device’s iCloud settings (Manage Storage › Dance Home). Before first use you confirm the privacy policy and the terms of use; both can also be read in the app without internet.
+
+- [Privacy policy](privacy.md)
+- [Terms of use](terms.md)
+- [Legal notice](impressum.md)
+
+## Sources and licenses
+
+- **Dance descriptions:** written in our own words based on the German and English Wikipedia and the rules of the World DanceSport Federation (WDSF); the sources are listed for each dance in the app.
+- **Dance pictures:** AI-generated.
+- All open-source components and fonts with their licenses: in the app under More › About & licenses.
+
+## Contact
+
+Michael Geramb · DanceHome@icloud.com
+
+---
+
+<sub>The dance pictures in the app and on this page are AI-generated.</sub>
+
+[Deutsche Version](../README.md)
